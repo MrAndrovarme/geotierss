@@ -68,5 +68,19 @@
       "Axe": "HT4",
       "Mace": "UR"
     }
+  },
+          {
+    "name": "nubi123",
+    "region": "GE",
+    "tiers": {
+      "Sword": "UR",
+      "Vanilla": "HT5",
+      "UHC": "UR",
+      "Pot": "UR",
+      "NetherOP": "UR",
+      "SMP": "UR",
+      "Axe": "HT4",
+      "Mace": "UR"
+    }
   }
 ]
