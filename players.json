@@ -72,10 +72,10 @@
 ]
     }
   },
-        {
+     {
     "name": "siqsevenking",
     "region": "ITA",
-    "tiers":ht27 {
+    "tiers":ht2 {
       "Sword": "LT3",
       "Vanilla": "HT5",
       "UHC": "UR",
